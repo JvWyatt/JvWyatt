@@ -7,21 +7,21 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/JvWyatt/JvWyatt/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/JvWyatt/JvWyatt/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <picture><img align="right" src="https://github.com/JvWyatt/JvWyatt/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br><br>
 
-- :school: I am a recent `Biology Graduate` with a passion for learning `Data Science`, `Statistics`, and `Programming`.
-- :rocket: Eager to develop my skills as a `Junior Data Scientist`.
-- :technologist: I believe `Software` and `Data` hold the key to solving some of the most complex `biological` and `environmental` challenges.
-- :computer: I’m learning programming, working with languages like `Python`, `R`, and diving into `Machine Learning` techniques.
-- :student: Currently expanding my knowledge in `Data Analysis`, `Statistical Modeling`, and `Bioinformatics`.
-- :nerd_face: Always `eager to grow` in the world of `technology` and `science`.
-- :thinking: I’m currently open to new `opportunities` in the fields of `Data Science` and `Bioinformatics`. [Check my resume](#) (link to your resume).
-- :boom: Explore more of my work and thoughts on my [personal website](#) (link to your website).
+- :dna: I am a `Biologist` with a great passion for learning about `Data Science` and `Programming`.
+- :computer: I am currently learning programming, working with languages such as `Python` and `R`.
+- :nerd_face: I am eager to grow in the world of `technology` and `science`.
+- :mag_right: I am currently open to new opportunities. [Check my CV](https://drive.google.com/uc?export=download&id=1w5Uvi5mY6cBiYRTZmUg_ByGszp_j5JsS)
+- :globe_with_meridians: Explore more of my work on my [Website] (Work in progress).
 
 <br>
+
+
+
 
 
