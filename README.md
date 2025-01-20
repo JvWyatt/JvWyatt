@@ -21,7 +21,7 @@
 - :dna: I'm a `Biologist` learning about `Data Science` and `Programming`.
 - :nerd_face: I'm eager to grow in the world of `technology` and `science`.
 - :computer: I'm currently working with `Python` and `R`.
-- :mag_right: I'm open to new opportunities. [Check my CV](https://drive.google.com/uc?export=download&id=1w5Uvi5mY6cBiYRTZmUg_ByGszp_j5JsS)
+- :mag_right: I'm open to new opportunities. [Check my CV](https://drive.google.com/uc?export=download&id=1KTYgdJzlvN_5e1cCisgXsHDMoDHLEniG)
 - :globe_with_meridians: Explore more of my work on my [Website] (Work in progress).
 <br>
 
