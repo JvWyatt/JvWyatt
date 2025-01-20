@@ -10,9 +10,10 @@
     <div align=center>
         <a href="https://www.youtube.com/@jv_wyatt"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube" alt="LinkedIn" /></a> 
         <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X" alt="X" /></a>
+      <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/buymeacoffee-#FFDD00?style=flat&logo=buymeacoffee" alt="buymeacoffee" /></a>
     </div>
     <div align=left>
-      
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 <picture><img align="right" src="https://www.kozmosound.com/wp-content/uploads/2018/12/Untitled-1-1.gif" width="205px" hspace="55"></picture>
 <br> 
@@ -23,6 +24,28 @@
 - :globe_with_meridians: Explore more of my work on my [Website] (Work in progress).
 <br>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Languages:👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,&perline=14" />
+  </a>
+</p>
 
-
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Tools:👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linux,vscode,git,&perline=14" />
+  </a>
+</p>
