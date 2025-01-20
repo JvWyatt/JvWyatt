@@ -24,10 +24,10 @@
 - :mag_right: I'm open to new opportunities. [Check my CV](https://drive.google.com/uc?export=download&id=1KTYgdJzlvN_5e1cCisgXsHDMoDHLEniG)
 - :globe_with_meridians: Explore more of my work on my [Website] (Work in progress).
 <br>
-
-<div id="user-content-toc" style="text-align: center;">
-  <h2 style="display: inline-block;"> 👨🏻‍💻 Languages & tools:</h2>
 </div>
+    <div align=left>
+
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/823/823431.png" width="25px"></picture> Languages & tools:
 
 <!--tech stack icons-->
 <p align="left">
@@ -37,9 +37,10 @@
 </p>
 <br>
 
-<div id="user-content-toc" style="text-align: center;">
-  <h2 style="display: inline-block;"> 📈 My GitHub stats:</h2>
 </div>
+    <div align=left>
+
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/1170/1170616.png" width="25px"></picture> My GitHub stats:
   
 </div>
 <p align="center">
