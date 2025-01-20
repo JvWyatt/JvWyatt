@@ -10,7 +10,7 @@
     <div align=center>
         <a href="https://www.youtube.com/@jv_wyatt"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube" alt="LinkedIn" /></a> 
         <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X" alt="X" /></a>
-      <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/buymeacoffee-#FFDD00?style=flat&logo=buymeacoffee" alt="buymeacoffee" /></a>
+        <a href="https://paypal.me/jvwyatt?country.x=PA&locale.x=es_XC"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?logo=buymeacoffee&logoColor=black" alt="Coffee" /></a>
     </div>
     <div align=left>
 
