@@ -14,7 +14,7 @@
     <div align=left>
       
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
-<picture><img align="right" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif" width="250px"></picture>
+<picture><img align="right" src="https://www.kozmosound.com/wp-content/uploads/2018/12/Untitled-1-1.gif" width="250px"></picture>
 <br> 
 - :dna: I'm a `Biologist` learning about `Data Science` and `Programming`.
 - :nerd_face: I'm eager to grow in the world of `technology` and `science`.
