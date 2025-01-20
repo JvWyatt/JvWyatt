@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/JvWyatt">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2700FF7B&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=34ef91&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
   </a>
 </p>
  </div>
@@ -25,15 +25,9 @@
 - :globe_with_meridians: Explore more of my work on my [Website] (Work in progress).
 <br>
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> 👨🏻‍💻Languages & tools:</h2></summary>
-  </ul>
-</div>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 📈 My GitHub stats:</h2></summary>
+    <summary><h2 style="display: inline-block"> 👨🏻‍💻 Languages & tools:</h2></summary>
   </ul>
   
 <!--tech stack icons-->
@@ -48,11 +42,11 @@
     <summary><h2 style="display: inline-block"> 📈 My GitHub stats:</h2></summary>
   </ul>
   
-<div align="center" style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true" alt="JvWyatt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark" alt="top-langs" />
 </div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark" alt="top-langs" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true" alt="JvWyatt" />  
+</p>
 
 
 
