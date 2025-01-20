@@ -8,9 +8,10 @@
 </p>
  </div>
     <div align=center>
-        <a href="https://www.youtube.com/@jv_wyatt"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube" alt="LinkedIn" /></a> 
-        <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X" alt="X" /></a>
-        <a href="https://paypal.me/jvwyatt?country.x=PA&locale.x=es_XC"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?logo=buymeacoffee&logoColor=black" alt="Coffee" /></a>
+      <a href="mailto:jvwyatt20@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="e-mail" /></a>
+        <a href="https://www.youtube.com/@jv_wyatt"><img src="https://img.shields.io/badge/YouTube-white?style=flat&logo=YouTube&logoColor=red" alt="YouTube" /></a> 
+        <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/X-%23030303?style=flat&logo=X" alt="X" /></a>
+        <a href="https://paypal.me/jvwyatt?country.x=PA&locale.x=es_XC"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%235B4638?style=flat&logo=buymeacoffee&logoColor=white" alt="Coffee" /></a>
     </div>
     <div align=left>
 
@@ -27,25 +28,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> Languages:👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> Languages & tools:👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,r,,windows,linux,ubuntu,github,vscode,git,gcp,ps,blender&perline=14" width="500px" />
   </a>
 </p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> Tools:👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linux,vscode,git,&perline=14" />
-  </a>
-</p>
+
