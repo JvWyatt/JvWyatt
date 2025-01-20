@@ -25,28 +25,26 @@
 - :globe_with_meridians: Explore more of my work on my [Website] (Work in progress).
 <br>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 👨🏻‍💻 Languages & tools:</h2></summary>
-  </ul>
-  
+<div id="user-content-toc" style="text-align: center;">
+  <h2 style="display: inline-block;"> 👨🏻‍💻 Languages & tools:</h2>
+</div>
+
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,r,,windows,linux,ubuntu,github,vscode,git,gcp,ps,blender&perline=14" width="700px" />
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 📈 My GitHub stats:</h2></summary>
-  </ul>
+
+<div id="user-content-toc" style="text-align: center;">
+  <h2 style="display: inline-block;"> 📈 My GitHub stats:</h2>
+</div>
   
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark" alt="top-langs" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true" alt="JvWyatt" />  
 </p>
-
 
 
