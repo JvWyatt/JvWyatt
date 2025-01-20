@@ -6,7 +6,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
   </a>
 </p>
-
+ </div>
+    <div align=center>
+        <a href="https://www.youtube.com/@jv_wyatt"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube" alt="LinkedIn" /></a> 
+        <a href="https://twitter.com/jv_wyatt"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X" alt="X" /></a>
+    </div>
+    <div align=left>
+      
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 <picture><img align="right" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif" width="250px"></picture>
 <br> 
