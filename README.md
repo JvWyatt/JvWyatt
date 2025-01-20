@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/JvWyatt">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF7B&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
   </a>
 </p>
  </div>
@@ -28,7 +28,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> Languages & tools:👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> 👨🏻‍💻Languages & tools:</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -37,5 +37,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,py,r,,windows,linux,ubuntu,github,vscode,git,gcp,ps,blender&perline=14" width="700px" />
   </a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 📈 My GitHub stats:</h2></summary>
+  </ul>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true" alt="JvWyatt" />  
+  <br><br> <!-- Esto agrega un pequeño espacio entre las imágenes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark" alt="top-langs" />
+</div>
+
 
 
