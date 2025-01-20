@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,py,r,,windows,linux,ubuntu,github,vscode,git,gcp,ps,blender&perline=14" width="700px" />
   </a>
 </p>
-
+<br>
 
 <div id="user-content-toc" style="text-align: center;">
   <h2 style="display: inline-block;"> 📈 My GitHub stats:</h2>
