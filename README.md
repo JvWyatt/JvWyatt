@@ -15,7 +15,7 @@
     </div>
     <div align=left>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
 <picture><img align="right" src="https://cdn.goconqr.com/uploads/node/image/61600355/desktop_15da85ed-c794-4972-b4bc-d72633055c8a.gif" width="200px" hspace="55"></picture>
 <br> 
 - :dna: I'm a `Biologist` learning about `Data Science` and `Programming`.
