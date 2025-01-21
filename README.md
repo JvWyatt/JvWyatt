@@ -32,7 +32,8 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,r,,windows,linux,ubuntu,github,vscode,git,gcp,ps,blender&perline=14" width="700px" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,r,,windows,linux,ubuntu,github,vscode,git,gcp,ps,blender&perline=14" width="750px" />  
+    <img src="https://icon-library.com/images/microsoft-office-icon-png/microsoft-office-icon-png-20.jpg" width="50px" />
   </a>
 </p>
 <br>
