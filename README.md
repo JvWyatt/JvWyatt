@@ -16,7 +16,7 @@
     <div align=left>
 
 ## <picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzcHFjNTNuZDF3Y2VkbnQ0Z255d3A4Y3piZ2hxYmI4aDlqZ3N0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Mq4aN3NX1zHlLGjSv/giphy.gif" width="40px"></picture> About me
-<picture><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ6YzdmZjdoa3ducXJwbG1sMGxwN2h1dmdhZGltZHZ5b3huY3E1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7wCJiCCdZfMMuy7k8w/giphy.gif" width="200px" hspace="55"></picture>
+<picture><img align="right" src="https://media0.giphy.com/media/eOzEtyOV94H0MeSdyK/200w.webp" width="250px" hspace="50"></picture>
 <br> 
 - :dna: I'm a `Biologist` learning about `Data Science` and `Programming`.
 - :nerd_face: I'm eager to grow in the world of `technology` and `science`.
