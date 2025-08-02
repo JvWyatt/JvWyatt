@@ -15,7 +15,7 @@
     </div>
     <div align=left>
 
-## <picture><img src="https://github.com/JvWyatt/JvWyatt/blob/main/images/Bookers%20%231924(der).gif" width="40px"></picture> About me
+## <picture><img src="https://github.com/JvWyatt/JvWyatt/blob/main/images/Bookers%20%231924(der).gif" width="30px"></picture> About me
 <picture><img align="right" src="https://github.com/JvWyatt/JvWyatt/blob/main/images/Bookers%20%231924.png" width="100px" hspace="55"></picture>
 <br> 
 - :dna: I'm a `Biologist` learning about `Data Science` and `Programming`.
