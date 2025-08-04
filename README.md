@@ -22,7 +22,7 @@
 - :nerd_face: I'm eager to grow in the world of `technology` and `science`.
 - :computer: I'm currently working with `Python` and `R`.
 - :mag_right: I'm open to new opportunities. [Check my CV](https://drive.google.com/uc?export=download&id=1KTYgdJzlvN_5e1cCisgXsHDMoDHLEniG)
-- :globe_with_meridians: Explore more of my work on my [Website] (https://jvwyatt.github.io/jvwyatt.dev-lab/) Work in progress.
+- :globe_with_meridians: Explore more of my work on my [Website](https://jvwyatt.github.io/jvwyatt.dev-lab/) Work in progress.
 <br>
 </div>
     <div align=left>
@@ -44,7 +44,7 @@
   
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark" alt="top-langs" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true" alt="JvWyatt" />  
 </p>
 
