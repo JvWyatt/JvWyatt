@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/JvWyatt">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=34ef91&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00d4ff&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Science+inspires+me+.+.+.;The+Code+drives+me+.+.+.;The+Data+fuels+my+passion+.+.+.;Biologist+at+heart,+programmer+in+the+making.;">
   </a>
 </p>
  </div>
