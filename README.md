@@ -15,14 +15,14 @@
     </div>
     <div align=left>
 
-## <picture><img src="https://github.com/JvWyatt/JvWyatt/blob/main/images/Bookers%20%231924(der).gif" width="30px"></picture> About me
-<picture><img align="right" src="https://github.com/JvWyatt/JvWyatt/blob/main/images/Bookers%20%231924.png" width="100px" hspace="55"></picture>
+## <picture><img src="https://github.com/JvWyatt/JvWyatt/blob/main/img/Bookers%20%231924(der).gif" width="30px"></picture> About me
+<picture><img align="right" src="https://github.com/JvWyatt/JvWyatt/blob/main/img/Bookers%20%231924.png" width="100px" hspace="55"></picture>
 <br> 
 - :dna: I'm a `Biologist` learning about `Data Science` and `Programming`.
 - :nerd_face: I'm eager to grow in the world of `technology` and `science`.
 - :computer: I'm currently working with `Python` and `R`.
-- :mag_right: I'm open to new opportunities. [Check my CV](https://drive.google.com/uc?export=download&id=1KTYgdJzlvN_5e1cCisgXsHDMoDHLEniG)
-- :globe_with_meridians: Explore more of my work on my [Website](https://jvwyatt.github.io/jvwyatt.dev-lab/) (Work in progress).
+- :mag_right: I'm open to new opportunities.
+- :globe_with_meridians: Explore more of my work on my [JV / Dev-Lab](https://jvwyatt.github.io/jvwyatt.dev-lab/).
 <br>
 </div>
     <div align=left>
