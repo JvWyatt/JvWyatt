@@ -44,8 +44,8 @@
   
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true" alt="JvWyatt" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true&hide_border=true" height="165" alt="JvWyatt's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark&cache_seconds=1800&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
 
