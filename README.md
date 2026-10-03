@@ -32,8 +32,9 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,r,,windows,linux,github,vscode,git,ps,blender&perline=14" width="700px" />  
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,r,dart,flutter,windows,linux,github,vscode,git,ps,blender,androidstudio,godot&perline=16" width="700px" alt="HTML, CSS, JavaScript, Python, R, Dart, Flutter, Windows, Linux, GitHub, VS Code, Git, Photoshop, Blender, Android Studio, Godot" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="47px" height="47px" alt="Android" />
 </p>
 <br>
 
@@ -47,5 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JvWyatt&theme=dark&show_icons=true&hide_border=true" height="165" alt="JvWyatt's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvWyatt&layout=compact&theme=dark&cache_seconds=1800&hide_border=true" height="165" alt="Most used languages" />
 </p>
-
-
