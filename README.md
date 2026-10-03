@@ -34,7 +34,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,r,dart,flutter,windows,linux,github,vscode,git,ps,blender,androidstudio,godot&perline=16" width="700px" alt="HTML, CSS, JavaScript, Python, R, Dart, Flutter, Windows, Linux, GitHub, VS Code, Git, Photoshop, Blender, Android Studio, Godot" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="47px" height="47px" alt="Android" />
 </p>
 <br>
 
